@@ -1,3 +1,6 @@
 # Discrete-Cosine-Transform-for-Image-Compression
 
-Matlab image compression algorithm using the discrete cosine transform. The original image is transformed into an 8 by 8 block and then using the inverse transform the image is reconstructed. Inverse DCT was performed using a subset of DCT coefficients.The error image (difference between the original and reconstructed images) is also calculated.
+In this project the DCT image compression algorithm was developed in Matlab. The performance of the algorithm is analyzed and studied by reconstructing the original image using different quantity of coefficient. The algorithm behave as follows: the original image is transformed into an 8 by 8 block and then using the inverse transform the image is reconstructed. Afterwards, the error for the reconstructed image is calculated and displayed.
+
+You can find further information here: https://sites.google.com/view/pablovela/software/dct
+
